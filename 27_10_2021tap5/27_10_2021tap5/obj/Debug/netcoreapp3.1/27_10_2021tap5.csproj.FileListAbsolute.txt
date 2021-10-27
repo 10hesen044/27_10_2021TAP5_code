@@ -1,0 +1,13 @@
+C:\Users\Hesen\Desktop\27.10.2021TAP5\27_10_2021tap5\27_10_2021tap5\bin\Debug\netcoreapp3.1\27_10_2021tap5.exe
+C:\Users\Hesen\Desktop\27.10.2021TAP5\27_10_2021tap5\27_10_2021tap5\bin\Debug\netcoreapp3.1\27_10_2021tap5.deps.json
+C:\Users\Hesen\Desktop\27.10.2021TAP5\27_10_2021tap5\27_10_2021tap5\bin\Debug\netcoreapp3.1\27_10_2021tap5.runtimeconfig.json
+C:\Users\Hesen\Desktop\27.10.2021TAP5\27_10_2021tap5\27_10_2021tap5\bin\Debug\netcoreapp3.1\27_10_2021tap5.runtimeconfig.dev.json
+C:\Users\Hesen\Desktop\27.10.2021TAP5\27_10_2021tap5\27_10_2021tap5\bin\Debug\netcoreapp3.1\27_10_2021tap5.dll
+C:\Users\Hesen\Desktop\27.10.2021TAP5\27_10_2021tap5\27_10_2021tap5\bin\Debug\netcoreapp3.1\27_10_2021tap5.pdb
+C:\Users\Hesen\Desktop\27.10.2021TAP5\27_10_2021tap5\27_10_2021tap5\obj\Debug\netcoreapp3.1\27_10_2021tap5.csprojAssemblyReference.cache
+C:\Users\Hesen\Desktop\27.10.2021TAP5\27_10_2021tap5\27_10_2021tap5\obj\Debug\netcoreapp3.1\27_10_2021tap5.AssemblyInfoInputs.cache
+C:\Users\Hesen\Desktop\27.10.2021TAP5\27_10_2021tap5\27_10_2021tap5\obj\Debug\netcoreapp3.1\27_10_2021tap5.AssemblyInfo.cs
+C:\Users\Hesen\Desktop\27.10.2021TAP5\27_10_2021tap5\27_10_2021tap5\obj\Debug\netcoreapp3.1\27_10_2021tap5.csproj.CoreCompileInputs.cache
+C:\Users\Hesen\Desktop\27.10.2021TAP5\27_10_2021tap5\27_10_2021tap5\obj\Debug\netcoreapp3.1\27_10_2021tap5.dll
+C:\Users\Hesen\Desktop\27.10.2021TAP5\27_10_2021tap5\27_10_2021tap5\obj\Debug\netcoreapp3.1\27_10_2021tap5.pdb
+C:\Users\Hesen\Desktop\27.10.2021TAP5\27_10_2021tap5\27_10_2021tap5\obj\Debug\netcoreapp3.1\27_10_2021tap5.genruntimeconfig.cache
